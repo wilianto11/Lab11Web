@@ -59,6 +59,21 @@
 ![image](https://user-images.githubusercontent.com/81583408/121363016-c4c1a300-c960-11eb-9349-9514e4bcd9ed.png)
 # Pertanyaan dan Tugas
 # Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga semua link pada navigasi header dapat menampilkan tampilan dengan layout yang sama.
+# file about
+![image](https://user-images.githubusercontent.com/81583408/121365747-1cf9a480-c963-11eb-931b-526c874c9489.png)
+# tampilan halaman about
+![image](https://user-images.githubusercontent.com/81583408/121365579-f8053180-c962-11eb-8151-f64ce4d94942.png)
+# menambahkan file Contact
+![image](https://user-images.githubusercontent.com/81583408/121365947-461a3500-c963-11eb-9718-305a55401e45.png)
+![image](https://user-images.githubusercontent.com/81583408/121365990-4fa39d00-c963-11eb-9c7d-485667cbf9ca.png)
+# tampilan halaman contact
+![image](https://user-images.githubusercontent.com/81583408/121366093-65b15d80-c963-11eb-962c-f4d609fcf529.png)
+# menambahkan file artikel
+![image](https://user-images.githubusercontent.com/81583408/121366184-79f55a80-c963-11eb-842d-f458db4fdfc9.png)
+# tampilan file artikel
+![image](https://user-images.githubusercontent.com/81583408/121366388-a4dfae80-c963-11eb-90e9-4d6ace7ea880.png)
+
+
 
 
 
