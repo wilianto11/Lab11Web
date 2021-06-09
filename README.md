@@ -1,1 +1,73 @@
 # Lab11Web
+# Nama : Wilianto
+# Kelas : TI.19.B2
+# Nim : 311910184
+# Tugas Praktikum 11 pemograman web
+# 1. Mengaktifkan extensi
+![image](https://user-images.githubusercontent.com/81583408/121354656-46153780-c959-11eb-9112-33db398f35c1.png)
+# 2. mengaktifkan xampp
+![image](https://user-images.githubusercontent.com/81583408/121355875-89bc7100-c95a-11eb-921f-d803beb9bfea.png)
+# 3. Bikin Folder baru lab11_ci
+![image](https://user-images.githubusercontent.com/81583408/121356054-b6708880-c95a-11eb-8efc-a2b92f24e7be.png)
+# 4. Isi dalam Folder Framework setelah di extract
+![image](https://user-images.githubusercontent.com/81583408/121356375-f9326080-c95a-11eb-8d5f-df11ec6debf4.png)
+# 5. tampilan http://localhost/lab11_ci/ci4/public/
+![image](https://user-images.githubusercontent.com/81583408/121356520-1f580080-c95b-11eb-9256-209562fdfcbd.png)
+# 6. buka terminal 
+![image](https://user-images.githubusercontent.com/81583408/121356750-5a5a3400-c95b-11eb-9e0c-38806f953316.png)
+# 7. mengubah nilai konfigurasi pada environment variable CI_ENVIRINMENT menjadi development
+![image](https://user-images.githubusercontent.com/81583408/121356886-7e1d7a00-c95b-11eb-8ffd-a474a55609f5.png)
+# 8. pesan error setelah mode development
+![image](https://user-images.githubusercontent.com/81583408/121357898-61ce0d00-c95c-11eb-96f1-5bca7e0eff62.png)
+# 9. menambah route baru
+![image](https://user-images.githubusercontent.com/81583408/121359156-66df8c00-c95d-11eb-9902-da02e05683a3.png)
+# 10. php spark routes
+![image](https://user-images.githubusercontent.com/81583408/121359434-aefeae80-c95d-11eb-86cc-6a109c5f1a95.png)
+# 11. Mengakses route http://localhost:8080/about
+![image](https://user-images.githubusercontent.com/81583408/121359651-e40b0100-c95d-11eb-8a31-e05a61872758.png)
+# 12. Membuat page controler
+![image](https://user-images.githubusercontent.com/81583408/121359843-16b4f980-c95e-11eb-8ec5-92ca64916eaf.png)
+# 13. tampilan setelah membuat page
+![image](https://user-images.githubusercontent.com/81583408/121359987-377d4f00-c95e-11eb-9442-f3bbb33b1eed.png)
+# 14. tampilan kontak
+![image](https://user-images.githubusercontent.com/81583408/121360385-92af4180-c95e-11eb-8460-fad0288af100.png)
+# 15. tampilan faq
+![image](https://user-images.githubusercontent.com/81583408/121360487-a9ee2f00-c95e-11eb-8ff4-23c217d00410.png)
+# 16 menonaktifkan auto route (false)
+![image](https://user-images.githubusercontent.com/81583408/121360681-d5711980-c95e-11eb-9012-eb47957cce3f.png)
+# 17. tampilan auto route false
+![image](https://user-images.githubusercontent.com/81583408/121360981-136e3d80-c95f-11eb-8ab8-eb5bfb3ca4c5.png)
+# 18. meng aktifkan auto route (true)
+![image](https://user-images.githubusercontent.com/81583408/121361156-37ca1a00-c95f-11eb-9f33-a4f35e7a41f7.png)
+# 19. tampilan auto route true
+![image](https://user-images.githubusercontent.com/81583408/121361290-5a5c3300-c95f-11eb-9416-5316452e0efd.png)
+# 20. membuat view untuk tampilan web agar lebih menarik. Buat file baru dengan nama about.php
+![image](https://user-images.githubusercontent.com/81583408/121361515-90011c00-c95f-11eb-8c6b-ec964ab93288.png)
+# 21. Ubah method about pada class Controller Page
+![image](https://user-images.githubusercontent.com/81583408/121361652-b2933500-c95f-11eb-9ed7-a6544b3a0cea.png)
+# 22. tampilan about setelah di ubah
+![image](https://user-images.githubusercontent.com/81583408/121361822-d22a5d80-c95f-11eb-9fe5-e8f545489d90.png)
+# 23. menambahkan file css dari praktikum 4 layout
+![image](https://user-images.githubusercontent.com/81583408/121362136-1584cc00-c960-11eb-9092-7f4245076499.png)
+# 24. Kemudian buat folder template pada direktori view kemudian buat file header.php
+![image](https://user-images.githubusercontent.com/81583408/121362469-4c5ae200-c960-11eb-941d-a14a34333e53.png)
+# 25.buat file footer.php
+![image](https://user-images.githubusercontent.com/81583408/121362657-744a4580-c960-11eb-92e9-e847c0d4a299.png)
+# 26. ubah lagi file about
+![image](https://user-images.githubusercontent.com/81583408/121362879-a5c31100-c960-11eb-857b-0a3109dcbac7.png)
+# 27. tampilan about setelah di kasih css
+![image](https://user-images.githubusercontent.com/81583408/121363016-c4c1a300-c960-11eb-9349-9514e4bcd9ed.png)
+# Pertanyaan dan Tugas
+# Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga semua link pada navigasi header dapat menampilkan tampilan dengan layout yang sama.
+
+
+
+
+
+
+
+
+
+
+
+
