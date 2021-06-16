@@ -109,8 +109,49 @@
 # 12. Tambahkan routing untuk menu admin
 ![image](https://user-images.githubusercontent.com/81583408/122250356-cb699080-cef3-11eb-9cbb-a2edc097ab52.png)
 # 13. Akses menu admin dengan url http://localhost:8080/admin/artikel
-![image](https://user-images.githubusercontent.com/81583408/122250501-e9cf8c00-cef3-11eb-9947-4b75733dba81.png)
+![image](https://user-images.githubusercontent.com/81583408/122253279-387e2580-cef6-11eb-9c22-21f97ce911c3.png)
 # 14. Tambahkan fungsi/method baru pada Controller Artikel dengan nama add()
+![image](https://user-images.githubusercontent.com/81583408/122253678-96ab0880-cef6-11eb-8e32-bface28d9562.png)
+# 15. Kemudian buat view untuk form tambah dengan nama form_add.php
+![image](https://user-images.githubusercontent.com/81583408/122253804-b5110400-cef6-11eb-8dcd-74e3fbb4e907.png)
+# 16. Akses menu tambah artikel dengan url http://localhost:8080/admin/artikel/add
+![image](https://user-images.githubusercontent.com/81583408/122253994-e4c00c00-cef6-11eb-849c-a90127508e9d.png)
+# 17. Tambahkan fungsi/method baru pada Controller Artikel dengan nama edit()
+![image](https://user-images.githubusercontent.com/81583408/122254533-66179e80-cef7-11eb-8072-6f0c5dd8de67.png)
+# 18. Kemudian buat view untuk form tambah dengan nama form_edit.php
+![image](https://user-images.githubusercontent.com/81583408/122255090-fce45b00-cef7-11eb-8080-ad11ac4e1a92.png)
+# tampilan form edit
+![image](https://user-images.githubusercontent.com/81583408/122255595-7b40fd00-cef8-11eb-8fe6-231870749810.png)
+# coba mengedit salah satu
+![image](https://user-images.githubusercontent.com/81583408/122255743-9f044300-cef8-11eb-8d38-0765ab80713d.png)
+# tampilan di admin setelah mengedit
+![image](https://user-images.githubusercontent.com/81583408/122256141-f6a2ae80-cef8-11eb-9a63-52bd331b635d.png)
+# tampilan artikel
+![image](https://user-images.githubusercontent.com/81583408/122256230-0de19c00-cef9-11eb-9aeb-5b58c5a235fd.png)
+
+![image](https://user-images.githubusercontent.com/81583408/122255932-cce98780-cef8-11eb-93fb-1c818d6f3476.png)
+# 19. Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
+![image](https://user-images.githubusercontent.com/81583408/122256657-792b6e00-cef9-11eb-9e76-944610c73b3a.png)
+# tampilan menghapus artikal
+![image](https://user-images.githubusercontent.com/81583408/122256953-b859bf00-cef9-11eb-9875-0dafc6c1fc13.png)
+# tampilan setelah di hapus
+![image](https://user-images.githubusercontent.com/81583408/122257037-d0314300-cef9-11eb-85f2-bfc3da3207a8.png)
+# menambahkan artikel baru
+![image](https://user-images.githubusercontent.com/81583408/122257366-2900db80-cefa-11eb-8cdf-e4da0ce76939.png)
+# tampilan setelah menambahkan artikel
+![image](https://user-images.githubusercontent.com/81583408/122257490-433ab980-cefa-11eb-90b6-2944f3395f0f.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
