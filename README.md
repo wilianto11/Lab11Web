@@ -83,13 +83,14 @@
 # 4. Buat Controller baru dengan nama Artikel.php pada direktori app/Controllers
 ![image](https://user-images.githubusercontent.com/81583408/122209042-43bd5b00-cece-11eb-8247-0cc579ce7fa7.png)
 # 5. Buat direktori baru dengan nama artikel pada direktori app/views, kemudian buat file baru dengan nama index.php
-![image](https://user-images.githubusercontent.com/81583408/122209229-82531580-cece-11eb-891e-9e0241bb989a.png)
+![image](https://user-images.githubusercontent.com/81583408/122222494-8423d580-cedc-11eb-9ac8-fbabaf8a1f54.png)
 # mengakses url http://localhost:8080/artikel
 ![image](https://user-images.githubusercontent.com/81583408/122209424-b4fd0e00-cece-11eb-83d0-1a8c9201a28b.png)
 # 6.tambahkan beberapa data pada database agar dapat ditampilkan datanya.
 ![image](https://user-images.githubusercontent.com/81583408/122214062-db717800-ced3-11eb-9ea4-bb25f41dbca3.png)
 # refresh url http://localhost:8080/artikel
-![image](https://user-images.githubusercontent.com/81583408/122213847-9a796380-ced3-11eb-8285-70005452e0f8.png)
+![image](https://user-images.githubusercontent.com/81583408/122222582-9aca2c80-cedc-11eb-85ab-9cb7413e2cbc.png)
+
 
 
 
