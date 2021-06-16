@@ -2,7 +2,7 @@
 # Nama : Wilianto
 # Kelas : TI.19.B2
 # Nim : 311910184
-# Tugas Praktikum 11 pemograman web
+# Tugas Praktikum 11 pemograman web dan Praktikum 12
 # 1. Mengaktifkan extensi
 ![image](https://user-images.githubusercontent.com/81583408/121354656-46153780-c959-11eb-9112-33db398f35c1.png)
 # 2. mengaktifkan xampp
@@ -72,6 +72,26 @@
 ![image](https://user-images.githubusercontent.com/81583408/121366184-79f55a80-c963-11eb-842d-f458db4fdfc9.png)
 # tampilan file artikel
 ![image](https://user-images.githubusercontent.com/81583408/121366388-a4dfae80-c963-11eb-90e9-4d6ace7ea880.png)
+
+# Tugas Praktikum 12 melanjutkan Praktikum 11
+# 1. Menbuat database dan membuta table
+![image](https://user-images.githubusercontent.com/81583408/122208487-8df20c80-cecd-11eb-94f1-b8a52c7a7bfc.png)
+# 2. membuat konfigurasi untuk menghubungkan dengan database server
+![image](https://user-images.githubusercontent.com/81583408/122208654-c72a7c80-cecd-11eb-9664-1a7c437a3a1e.png)
+# 3. membuat Model untuk memproses data Artikel. Buat file baru pada direktori app/Models dengan nama ArtikelModel.php
+![image](https://user-images.githubusercontent.com/81583408/122208804-fc36cf00-cecd-11eb-941d-0e189035e918.png)
+# 4. Buat Controller baru dengan nama Artikel.php pada direktori app/Controllers
+![image](https://user-images.githubusercontent.com/81583408/122209042-43bd5b00-cece-11eb-8247-0cc579ce7fa7.png)
+# 5. Buat direktori baru dengan nama artikel pada direktori app/views, kemudian buat file baru dengan nama index.php
+![image](https://user-images.githubusercontent.com/81583408/122209229-82531580-cece-11eb-891e-9e0241bb989a.png)
+# mengakses url http://localhost:8080/artikel
+![image](https://user-images.githubusercontent.com/81583408/122209424-b4fd0e00-cece-11eb-83d0-1a8c9201a28b.png)
+# 6.tambahkan beberapa data pada database agar dapat ditampilkan datanya.
+![image](https://user-images.githubusercontent.com/81583408/122214062-db717800-ced3-11eb-9ea4-bb25f41dbca3.png)
+# refresh url http://localhost:8080/artikel
+![image](https://user-images.githubusercontent.com/81583408/122213847-9a796380-ced3-11eb-8285-70005452e0f8.png)
+
+
 
 
 
