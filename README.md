@@ -90,6 +90,28 @@
 ![image](https://user-images.githubusercontent.com/81583408/122214062-db717800-ced3-11eb-9ea4-bb25f41dbca3.png)
 # refresh url http://localhost:8080/artikel
 ![image](https://user-images.githubusercontent.com/81583408/122222582-9aca2c80-cedc-11eb-85ab-9cb7413e2cbc.png)
+# 7. Tambahkan fungsi baru pada Controller Artikel
+![image](https://user-images.githubusercontent.com/81583408/122230580-fba93300-cee3-11eb-9648-e5d7bf3f48cc.png)
+# 8. Buat view baru untuk halaman detail dengan nama app/views/artikel/detail.php
+![image](https://user-images.githubusercontent.com/81583408/122230943-462aaf80-cee4-11eb-98e8-c2d85fe671ab.png)
+# 9. Buka Kembali file app/config/Routes.php, kemudian tambahkan routing untuk artikel detail.
+![image](https://user-images.githubusercontent.com/81583408/122231119-6c504f80-cee4-11eb-95b4-f1eb2d3dbddb.png)
+# artikel pertama
+![image](https://user-images.githubusercontent.com/81583408/122231284-8a1db480-cee4-11eb-91bb-6f4da9b6100e.png)
+# artikel kedua
+![image](https://user-images.githubusercontent.com/81583408/122231419-a28dcf00-cee4-11eb-90a8-16e95277a7a1.png)
+# 10. Membuat Menu Admin
+# Buat method baru pada Controller Artikel dengan nama admin_index()
+![image](https://user-images.githubusercontent.com/81583408/122231931-0e703780-cee5-11eb-8ed2-632459889c75.png)
+# 11. Selanjutnya buat view untuk tampilan admin dengan nama admin_index.php
+![image](https://user-images.githubusercontent.com/81583408/122249872-6877f980-cef3-11eb-93f4-7dfacfbfa334.png)
+![image](https://user-images.githubusercontent.com/81583408/122250006-82194100-cef3-11eb-9dbc-01ffa5e0bd61.png)
+# 12. Tambahkan routing untuk menu admin
+![image](https://user-images.githubusercontent.com/81583408/122250356-cb699080-cef3-11eb-9cbb-a2edc097ab52.png)
+# 13. Akses menu admin dengan url http://localhost:8080/admin/artikel
+![image](https://user-images.githubusercontent.com/81583408/122250501-e9cf8c00-cef3-11eb-9947-4b75733dba81.png)
+# 14. Tambahkan fungsi/method baru pada Controller Artikel dengan nama add()
+
 
 
 
