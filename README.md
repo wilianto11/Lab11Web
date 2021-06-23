@@ -163,6 +163,19 @@
 ## Selanjutnya buka url http://localhost:8080/user/login seperti berikut:
 ![gambar](https://user-images.githubusercontent.com/81583408/123125433-b4d2b480-d472-11eb-971a-2603701f99f6.png)
 ## 6. Selanjutnya membuat filer untuk halaman admin. Buat file baru dengan nama Auth.php pada direktori app/Filters.
+![gambar](https://user-images.githubusercontent.com/81583408/123145346-f1101000-d486-11eb-8ebc-44146f083b1f.png)
+## 7. Selanjutnya buka file app/Config/Filters.php tambahkan kode berikut:
+![gambar](https://user-images.githubusercontent.com/81583408/123145590-32082480-d487-11eb-8847-2628cfe59968.png)
+## 8. Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya
+![gambar](https://user-images.githubusercontent.com/81583408/123145732-55cb6a80-d487-11eb-9efd-6e468fb3e678.png)
+## 9. Percobaan Akses Menu Admin
+## Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut diakses maka, akan dimuculkan halaman login
+![gambar](https://user-images.githubusercontent.com/81583408/123145838-71cf0c00-d487-11eb-806d-fabdec43813d.png)
+## Tambahkan method logout pada Controller User seperti berikut:
+![gambar](https://user-images.githubusercontent.com/81583408/123146086-b65aa780-d487-11eb-9c14-2a360391c27d.png)
+
+
+
 
 
 
