@@ -173,6 +173,15 @@
 ![gambar](https://user-images.githubusercontent.com/81583408/123145838-71cf0c00-d487-11eb-806d-fabdec43813d.png)
 ## Tambahkan method logout pada Controller User seperti berikut:
 ![gambar](https://user-images.githubusercontent.com/81583408/123146086-b65aa780-d487-11eb-9c14-2a360391c27d.png)
+## login 
+![gambar](https://user-images.githubusercontent.com/81583408/123146656-544e7200-d488-11eb-920a-9d1c67964e8e.png)
+## tampilan setelah login
+![gambar](https://user-images.githubusercontent.com/81583408/123151376-962de700-d48d-11eb-871f-9e1c3b0cdcf9.png)
+## tampilan sebelum log out
+![gambar](https://user-images.githubusercontent.com/81583408/123152513-e0fc2e80-d48e-11eb-962c-ab8a8943be0f.png)
+## tampilan setelah log out
+![gambar](https://user-images.githubusercontent.com/81583408/123152664-025d1a80-d48f-11eb-8f9c-c61711b976aa.png)
+
 
 
 
