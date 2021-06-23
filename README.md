@@ -2,7 +2,7 @@
 # Nama : Wilianto
 # Kelas : TI.19.B2
 # Nim : 311910184
-# Tugas Praktikum 11 pemograman web dan Praktikum 12
+# Tugas Praktikum 11 pemograman web , Praktikum 12 dan Praktikum 13
 # 1. Mengaktifkan extensi
 ![image](https://user-images.githubusercontent.com/81583408/121354656-46153780-c959-11eb-9112-33db398f35c1.png)
 # 2. mengaktifkan xampp
@@ -140,6 +140,31 @@
 ![image](https://user-images.githubusercontent.com/81583408/122257366-2900db80-cefa-11eb-8cdf-e4da0ce76939.png)
 # tampilan setelah menambahkan artikel
 ![image](https://user-images.githubusercontent.com/81583408/122257490-433ab980-cefa-11eb-90b6-2944f3395f0f.png)
+
+--------------------------------------------------------------------------------------------------------------------
+
+# Praktikum 13: Framework Lanjutan (Modul Login)
+## 1. bikin table user
+![gambar](https://user-images.githubusercontent.com/81583408/123116337-06774100-d46b-11eb-8242-38b1b141db8f.png)
+## 2. membuat Model untuk memproses data Login. Buat file baru pada direktori app/Models dengan nama UserModel.php
+![gambar](https://user-images.githubusercontent.com/81583408/123122968-aaafb680-d470-11eb-834c-a53752ea28fb.png)
+## 3. Buat Controller baru dengan nama User.php pada direktori app/Controllers. 
+## Kemudian tambahkan method index() untuk menampilkan daftar user, dan method login() untuk proses login.
+![gambar](https://user-images.githubusercontent.com/81583408/123123763-4c370800-d471-11eb-9b94-af170caa1f19.png)
+![gambar](https://user-images.githubusercontent.com/81583408/123123853-5eb14180-d471-11eb-8be1-8c21470e85ba.png)
+## 4. Buat direktori baru dengan nama user pada direktori app/views, kemudian buat file baru dengan nama login.php
+![gambar](https://user-images.githubusercontent.com/81583408/123124595-02025680-d472-11eb-9a98-1272a8bb77d5.png)
+## 5. Database seeder digunakan untuk membuat data dummy. Untuk keperluan ujicoba modul login, kita perlu memasukkan data user dan password kedaalam database. Untuk itu buat database seeder untuk tabel user. Buka CLI, kemudian tulis perintah berikut:
+![gambar](https://user-images.githubusercontent.com/81583408/123124870-3d9d2080-d472-11eb-8f66-6f90f736e0e9.png)
+## Selanjutnya, buka file UserSeeder.php yang berada di lokasi direktori /app/Database/Seeds/UserSeeder.php kemudian isi dengan kode berikut:
+![gambar](https://user-images.githubusercontent.com/81583408/123125095-6d4c2880-d472-11eb-886b-e9bfad045c24.png)
+## Selanjutnya buka kembali CLI dan ketik perintah berikut:
+![gambar](https://user-images.githubusercontent.com/81583408/123125265-8e147e00-d472-11eb-96eb-73ec836efeb5.png)
+## Selanjutnya buka url http://localhost:8080/user/login seperti berikut:
+![gambar](https://user-images.githubusercontent.com/81583408/123125433-b4d2b480-d472-11eb-971a-2603701f99f6.png)
+## 6. Selanjutnya membuat filer untuk halaman admin. Buat file baru dengan nama Auth.php pada direktori app/Filters.
+
+
 
 
 
