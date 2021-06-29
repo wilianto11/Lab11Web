@@ -181,6 +181,44 @@
 ![gambar](https://user-images.githubusercontent.com/81583408/123152513-e0fc2e80-d48e-11eb-962c-ab8a8943be0f.png)
 ## tampilan setelah log out
 ![gambar](https://user-images.githubusercontent.com/81583408/123152664-025d1a80-d48f-11eb-8f9c-c61711b976aa.png)
+--------------------------------------------------------------------------------------------------
+
+# Praktikum 14: Pagination dan Pencarian
+## 1. buka Kembali Controller Artikel, kemudian modifikasi kode pada method admin_index
+![gambar](https://user-images.githubusercontent.com/81583408/123795356-22b52b00-d90e-11eb-8e6a-742a881e12a0.png)
+## 2. Kemudian buka file views/artikel/admin_index.php dan tambahkan kode berikut dibawah deklarasi tabel data.
+![gambar](https://user-images.githubusercontent.com/81583408/123795415-352f6480-d90e-11eb-96a1-2a416e7ce31c.png)
+## 3. Selanjutnya buka kembali menu daftar artikel, tambahkan data lagi untuk melihat hasilnya.#data dibatasi 4 record per halaman
+![gambar](https://user-images.githubusercontent.com/81583408/123795527-4e381580-d90e-11eb-85cd-2cf2b0be8bf4.png)
+## 4. Untuk membuat pencarian data, buka kembali Controller Artikel, pada method admin_index ubah kodenya
+![gambar](https://user-images.githubusercontent.com/81583408/123799241-382c5400-d912-11eb-9d5a-5c433776aed0.png)
+## 5.Kemudian buka kembali file views/artikel/admin_index.php dan tambahkan form pencarian sebelum deklarasi tabel
+![gambar](https://user-images.githubusercontent.com/81583408/123799370-5abe6d00-d912-11eb-9663-4ded529daddf.png)
+## 6. Dan pada link pager ubah seperti berikut.
+![gambar](https://user-images.githubusercontent.com/81583408/123799473-76c20e80-d912-11eb-86a6-2c951ed8dd56.png)
+## 7. Selanjutnya ujicoba dengan membuka kembali halaman admin artikel, masukkan kata kunci tertentu pada form pencarian.
+![gambar](https://user-images.githubusercontent.com/81583408/123799562-8e00fc00-d912-11eb-8106-f0180c249427.png)
+### uji coba search
+![gambar](https://user-images.githubusercontent.com/81583408/123799719-b25cd880-d912-11eb-9394-94d1ba65396a.png)
+## 8. Menambahkan fungsi unggah gambar pada tambah artikel. Buka kembali Controller Artikel, sesuaikan kode pada method add seperti berikut:
+![gambar](https://user-images.githubusercontent.com/81583408/123801604-a40fbc00-d914-11eb-8211-d2f3a49da14b.png)
+## 9. Kemudian pada file views/artikel/form_add.php tambahkan field input file seperti berikut.
+##    Dan sesuaikan tag form dengan menambahkan ecrypt type seperti berikut
+![gambar](https://user-images.githubusercontent.com/81583408/123801891-e33e0d00-d914-11eb-8da3-ef650138cb0d.png)
+## 10. Ujicoba file upload dengan mengakses menu tambah artikel.
+![gambar](https://user-images.githubusercontent.com/81583408/123801988-fc46be00-d914-11eb-8c89-972d02afabe8.png)
+## mencooba menambahkan foto pada artikel
+![gambar](https://user-images.githubusercontent.com/81583408/123802313-619aaf00-d915-11eb-8ab0-add85de474aa.png)
+tampilan di setelah uplod dengan foto artikel
+![gambar](https://user-images.githubusercontent.com/81583408/123802465-8858e580-d915-11eb-9190-670c32b2e31c.png)
+
+
+
+
+
+
+
+
 
 
 
